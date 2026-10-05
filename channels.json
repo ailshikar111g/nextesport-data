@@ -7,7 +7,14 @@
       "id": "section_1_5351",
       "name": "قسم جديد",
       "image": "",
-      "channels": []
+      "channels": [
+        {
+          "name": "jgh",
+          "logo": "",
+          "url": "https://m3uextractor.kiki10kkii.workers.dev/download/946c5936-66ee-44b1-bde6-0c00aade02e8/Live_%E2%9C%85%20KHALEEJI%2027%20_%20%D8%AE%D9%84%D9%8A%D8%AC%D9%8A.m3u8",
+          "type": "stream"
+        }
+      ]
     }
   ]
 }
