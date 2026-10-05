@@ -1,6 +1,13 @@
 {
   "version": 1,
-  "updated_at": "2026-09-30",
+  "updated_at": "2026-10-05",
   "trending": [],
-  "categories": []
+  "categories": [
+    {
+      "id": "section_1_5351",
+      "name": "قسم جديد",
+      "image": "",
+      "channels": []
+    }
+  ]
 }
